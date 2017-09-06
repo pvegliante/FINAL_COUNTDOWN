@@ -1,0 +1,9 @@
+Ques 14:
+mysql_connect( ) does not take following parameter.
+A) database name
+B) database host
+C) user ID
+D) password
+
+answer:
+A) database name

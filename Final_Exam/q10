@@ -1,0 +1,15 @@
+Ques 10:
+What will be the output of the code below?
+<?php
+$arr = array(5 => 1, 12 => 2);
+$arr[] = 56;
+$arr[“x”] = 42;
+unset($arr);
+echo var_dump($arr); ?>
+A) 42
+B) 56
+C) Null
+D) x=42
+
+answer:
+C) Null

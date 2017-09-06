@@ -1,0 +1,10 @@
+Ques 15:
+Variable scope on which a variable does not loose its value when the function exists and uses that
+value if the function is called again is: ?
+A) Local
+B) function parameter
+C) static
+D) None of above
+
+answer:
+C) static

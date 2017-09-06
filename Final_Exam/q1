@@ -1,0 +1,10 @@
+
+Ques 1:
+What will be the output of the following code ? define(“x”,“5”);
+$x = x + 10;
+echo x;
+?>
+A) Error B) 5 C) 10 D) 15
+
+answer:
+A) 15

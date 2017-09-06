@@ -1,0 +1,10 @@
+Ques 6:
+Which of the following will not combine strings $s1 and $s2 into a single string?
+A) $s1 + $s2
+B) “{$s1}{$s2}”
+C) $s1.$s2
+D) implode(‘ ’, array($s1,$s2))
+
+answer:
+
+A) $s1 + $s2

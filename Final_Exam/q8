@@ -1,0 +1,9 @@
+Ques 8:
+Identify the variable scope that is not supported by PHP ?
+A) Local variables
+B) Function parameters
+C) Hidden variables
+D) Global variables
+
+answer:
+B) Function parameters

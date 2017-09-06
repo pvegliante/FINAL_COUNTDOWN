@@ -1,0 +1,12 @@
+Ques 11:
+What will be the output of the code below?
+<?php
+echo $_SERVER[‘REMOTE_ADDR’];
+?>
+A) shows the IP address of the webserver
+B) shows the IP address of the local system
+C) shows the IP address of the visitor
+D) None of the above
+
+answer:
+B) shows the IP address of the local system

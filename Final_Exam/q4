@@ -1,0 +1,11 @@
+Ques 4:
+Are there regular expressions in PHP?
+A) Yes regular expressions use Perl-like conventions
+B) Yes PHP supports two different types of regular expressions: POSIXextended and Perl Compatible
+Regular Expressions (PCRE).
+C) Yes regular expressions use the POSIX standard
+D) No PHP uses “glob” style matching only
+
+answer:
+B) Yes PHP supports two different types of regular expressions: POSIXextended and Perl Compatible
+Regular Expressions (PCRE).

@@ -1,0 +1,8 @@
+Ques 16:
+Which of the following is used to check if a function has already been defined?
+A) bool function_exists(functionname)
+B) bool func_exist(functioname)
+C) bool f_exists(functionname)
+
+answer:
+A) bool function_exists(functionname)

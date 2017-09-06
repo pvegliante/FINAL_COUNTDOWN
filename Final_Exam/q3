@@ -1,0 +1,10 @@
+Ques 3:
+Assume that your php file ‘index.php’ is in location c:/apache/htdocs/phptutor/index.php. If you used
+$_SERVER[‘PHP_SELF’] function in your page, then what is the return value of this function?
+A) phptutor/index.php
+B) /phptutor/index.php
+C) c:/apache/htdocs/phptutor/index.php
+D) index.php
+
+answer:
+B) /phptutor/index.php

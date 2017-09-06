@@ -1,0 +1,16 @@
+Ques 2:
+Which of these statements is true?
+A) PHP interfaces to the MySQL database,and you should transfer any data in Oracle or Sybase to
+MySQL if you want to use PHP on the data.
+B) PHP interfaces to a number of relational databases such as MySQL, Oracle and Sybase. A
+wrapper layer is provided so that code written for one database can easily be transferred to another if
+you later switch your database engine.
+C) PHP interfaces to a number of relational databases such as MySQL, Oracle and Sybase but the
+interface differs in each case.
+D) There’s little code in PHP to help you interface to databases, but there’s no reason why you can’t
+write such code if you want to.
+
+
+answer:
+C) PHP interfaces to a number of relational databases such as MySQL, Oracle and Sybase but the
+interface differs in each case.
